@@ -1,0 +1,14 @@
+{
+  "token": "BOT-TOKEN",
+  "prefix": "ch!",
+  "vanities": [
+    "discord.gg/chillhive",
+    "Discord.gg/chillhive",
+    ".gg/chillhive",
+    "DISCORD.GG/CHILLHIVE",
+    ".GG/CHILLHIVE"
+  ],
+  "role_id": "1342729779291619348",
+  "log_channel_id": "1342736401195728896",
+  "guild_id": "1248190546829381674"
+}
